@@ -1,0 +1,15 @@
+D:\CS1\Zadanie6\bin\Debug\net6.0\Zadanie6.exe
+D:\CS1\Zadanie6\bin\Debug\net6.0\Zadanie6.deps.json
+D:\CS1\Zadanie6\bin\Debug\net6.0\Zadanie6.runtimeconfig.json
+D:\CS1\Zadanie6\bin\Debug\net6.0\Zadanie6.dll
+D:\CS1\Zadanie6\bin\Debug\net6.0\ref\Zadanie6.dll
+D:\CS1\Zadanie6\bin\Debug\net6.0\Zadanie6.pdb
+D:\CS1\Zadanie6\obj\Debug\net6.0\Zadanie6.csproj.AssemblyReference.cache
+D:\CS1\Zadanie6\obj\Debug\net6.0\Zadanie6.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS1\Zadanie6\obj\Debug\net6.0\Zadanie6.AssemblyInfoInputs.cache
+D:\CS1\Zadanie6\obj\Debug\net6.0\Zadanie6.AssemblyInfo.cs
+D:\CS1\Zadanie6\obj\Debug\net6.0\Zadanie6.csproj.CoreCompileInputs.cache
+D:\CS1\Zadanie6\obj\Debug\net6.0\Zadanie6.dll
+D:\CS1\Zadanie6\obj\Debug\net6.0\ref\Zadanie6.dll
+D:\CS1\Zadanie6\obj\Debug\net6.0\Zadanie6.pdb
+D:\CS1\Zadanie6\obj\Debug\net6.0\Zadanie6.genruntimeconfig.cache

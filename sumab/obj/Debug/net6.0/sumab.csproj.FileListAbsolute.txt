@@ -1,0 +1,15 @@
+D:\CS1\sumab\bin\Debug\net6.0\sumab.exe
+D:\CS1\sumab\bin\Debug\net6.0\sumab.deps.json
+D:\CS1\sumab\bin\Debug\net6.0\sumab.runtimeconfig.json
+D:\CS1\sumab\bin\Debug\net6.0\sumab.dll
+D:\CS1\sumab\bin\Debug\net6.0\ref\sumab.dll
+D:\CS1\sumab\bin\Debug\net6.0\sumab.pdb
+D:\CS1\sumab\obj\Debug\net6.0\sumab.csproj.AssemblyReference.cache
+D:\CS1\sumab\obj\Debug\net6.0\sumab.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS1\sumab\obj\Debug\net6.0\sumab.AssemblyInfoInputs.cache
+D:\CS1\sumab\obj\Debug\net6.0\sumab.AssemblyInfo.cs
+D:\CS1\sumab\obj\Debug\net6.0\sumab.csproj.CoreCompileInputs.cache
+D:\CS1\sumab\obj\Debug\net6.0\sumab.dll
+D:\CS1\sumab\obj\Debug\net6.0\ref\sumab.dll
+D:\CS1\sumab\obj\Debug\net6.0\sumab.pdb
+D:\CS1\sumab\obj\Debug\net6.0\sumab.genruntimeconfig.cache
