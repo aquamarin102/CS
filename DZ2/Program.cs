@@ -32,9 +32,9 @@ namespace Hello_CS
             Console.WriteLine("Введите число: ");
             int a = int.Parse(Console.ReadLine());
             int i = 0;
-            while(a >= 0)
+            while(a >= 1)
             {
-                ++i;
+                i++;
                 a = a / 10;
             }
             Console.WriteLine("В вашем числе " + i + " цифр");
@@ -183,8 +183,6 @@ namespace Hello_CS
         static int recursum(int a, int b)
         {
 
-            
-
             if (a <= b)
             {
               return  recursum(a + 1, b) + a; }
@@ -192,9 +190,7 @@ namespace Hello_CS
         }
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.BackgroundColor = ConsoleColor.Green;
-            Console.Clear();
+            
             Console.Title = "Даниил Здор";
 
             Console.WriteLine("1 - task 1");
