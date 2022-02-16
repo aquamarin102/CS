@@ -180,11 +180,14 @@ namespace Myname
             int b = 0;
             for(int k = 2; k < 10; k++)
             {
-                while (i % k == 0 && j % k == 0) 
+                while (i % k == 0 && j % k == 0)
                 {
                     i = i / k;
                     j = j / k;
+
+                    if (i > j) { 
                     b++;
+                }
                 }
             }
             return b + " " + i + "/" + j;
@@ -314,13 +317,13 @@ namespace Myname
         {
             fraction fraction1;
 
-            fraction1 = new fraction(1, 0);
+            fraction1 = new fraction(78, 0);
 
-            fraction1.J = 2;
+            fraction1.J = 100;
 
-            fraction fraction2 = new fraction(2, 2);
+            fraction fraction2 = new fraction(123, 2);
 
-            fraction2.J = 5;
+            fraction2.J = 100;
 
             fraction fractionresult;
 
