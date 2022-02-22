@@ -1,0 +1,6 @@
+﻿root
+GeekBrains
+login
+password
+Ivanov
+123456
